@@ -47,7 +47,7 @@ public class HomePageActivity extends AppCompatActivity {
             }
         });
 
-        // Set OnClickListener for the Bus card to show a "Coming Soon" Toast message
+        // Set OnClickListener for the Bus card to show a "Coming Soon" pop up message
         cardBus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
